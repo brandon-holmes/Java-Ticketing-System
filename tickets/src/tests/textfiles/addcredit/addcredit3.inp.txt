@@ -1,0 +1,12 @@
+login
+Buyer1
+addcredit
+1
+logout
+
+login
+Admin
+addcredit
+Buyer1
+1
+logout

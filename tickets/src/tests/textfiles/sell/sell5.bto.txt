@@ -1,0 +1,25 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Seller1
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Full1
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+Buyers can not sell tickets.
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+Thank you for being our customer.

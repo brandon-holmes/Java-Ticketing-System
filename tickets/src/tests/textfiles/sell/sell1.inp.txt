@@ -1,0 +1,15 @@
+login
+Seller1
+sell
+'26 Character event title'
+sell
+_
+sell
+Event1
+logout
+
+login
+Admin
+sell
+Event1
+logout

@@ -1,0 +1,7 @@
+// Current User Accounts File
+Buyer1                BS 00001000
+Seller1               SS 00001000
+Full1                 FS 00001000
+Admin                 AA 00001000
+
+END                              

@@ -1,0 +1,9 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+Please enter the event title:
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Thank you for being our customer.

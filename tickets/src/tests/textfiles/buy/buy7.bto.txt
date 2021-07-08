@@ -1,0 +1,17 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+Please enter the event title:
+Event has expired.
+Please enter the event title:
+Please enter the number of tickets to purchase:
+Event does not have enough tickets available to process your order.
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Event has expired.
+Please enter the event title:
+Please enter the number of tickets to purchase:
+Event does not have enough tickets available to process your order.
+Thank you for being our customer.

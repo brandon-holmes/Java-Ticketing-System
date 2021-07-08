@@ -1,0 +1,8 @@
+// Daily Transaction File(s)
+05 Buyer1          Seller1         000000001
+
+00 Buyer1          BS 000001001
+
+00 Seller1         SS 000000999
+
+00 Admin           AA 000001000

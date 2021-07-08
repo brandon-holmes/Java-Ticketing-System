@@ -1,0 +1,6 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+What is the buyers username:
+What is the sellers username:
+How much credit should be transferred
+Thank you for being our customer.

@@ -1,0 +1,13 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+Please enter the event title:
+Please enter the number of tickets to purchase:
+Please enter the sellers username:
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Please enter the number of tickets to purchase:
+Please enter the sellers username:
+Thank you for being our customer.

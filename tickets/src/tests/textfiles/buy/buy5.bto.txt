@@ -1,0 +1,16 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+Please enter the event title:
+Please enter the number of tickets to purchase:
+Please enter the sellers username:
+Please Confirm your order (Y/N):
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Please enter the number of tickets to purchase:
+Please enter the sellers username:
+Ticket Cost: $1, Total Cost: $1.13
+Please Confirm your order (Y/N):
+Thank you for being our customer.

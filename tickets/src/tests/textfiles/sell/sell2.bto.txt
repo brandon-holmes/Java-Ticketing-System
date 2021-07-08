@@ -1,0 +1,17 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Seller1
+Please enter the event title:
+Please input the Sale price in dollars:
+There is a maximum sale price of $999.99
+Please enter the event title:
+Please input the Sale price in dollars:
+There is a minimum sale price of $0
+Please enter the event title:
+Please input the Sale price in dollars:
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Please input the Sale price in dollars:
+Thank you for being our customer.

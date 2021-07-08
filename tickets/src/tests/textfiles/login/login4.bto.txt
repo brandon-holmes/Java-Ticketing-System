@@ -1,0 +1,3 @@
+Please enter your username: Buyer1
+Welcome to the Ticket Selling System, Buyer1
+Please enter your desired action (buy, sell, etc.):

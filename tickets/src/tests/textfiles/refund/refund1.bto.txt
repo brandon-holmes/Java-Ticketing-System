@@ -1,0 +1,8 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+You must be logged in as admin for this transaction.
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Thank you for being our customer.

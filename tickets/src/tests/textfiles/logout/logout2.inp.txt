@@ -1,0 +1,3 @@
+logout
+Buyer1
+logout

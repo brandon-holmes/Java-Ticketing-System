@@ -1,0 +1,21 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Seller1
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+You can only sell a maximum of 100 tickets.
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+You can only sell a minimum of 0 tickets.
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+Thank you for being our customer.
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+Thank you for being our customer.

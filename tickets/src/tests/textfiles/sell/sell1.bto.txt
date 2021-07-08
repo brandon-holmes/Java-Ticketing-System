@@ -1,0 +1,13 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Seller1
+Please enter the event title:
+There is a maximum character limit of 25 characters for the event title.
+Please enter the event title:
+There is a minimum character requirement of 1 character for the event title.
+Thank you for being our customer.
+
+
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Thank you for being our customer.

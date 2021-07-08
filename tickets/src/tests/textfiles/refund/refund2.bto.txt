@@ -1,0 +1,6 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+What is the buyers username:
+User does not exist.
+What is the buyers username:
+Thank you for being our customer.

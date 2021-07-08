@@ -1,0 +1,4 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Buyer1
+How much credit would you like to add:
+Thank you for being our customer.

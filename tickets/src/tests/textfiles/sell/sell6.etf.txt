@@ -1,0 +1,2 @@
+// Daily Transaction File(s)
+00 Admin           AA 000001000

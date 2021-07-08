@@ -1,0 +1,5 @@
+login
+Buyer1
+addcredit
+1
+logout

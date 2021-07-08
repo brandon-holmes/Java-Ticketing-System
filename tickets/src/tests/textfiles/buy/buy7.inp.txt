@@ -1,0 +1,8 @@
+login
+Buyer1
+buy
+Expired Event
+buy
+Event0
+1
+logout

@@ -1,0 +1,7 @@
+Please enter your username:
+Welcome to the Ticket Selling System, Admin
+Please enter the event title:
+Please input the Sale price in dollars:
+Please input the number of tickets to sell:
+Event cannot process transaction until next session.
+Thank you for being our customer.
